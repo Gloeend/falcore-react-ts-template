@@ -8,4 +8,5 @@ module.exports = {
       "@pages": path.resolve(__dirname, "src/pages"),
     },
   },
+  eslint: null,
 };
